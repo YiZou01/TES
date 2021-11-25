@@ -1,8 +1,17 @@
 # TES
-R scripts for functions of ES(), TES() and plot.TES()
 
-#ES() calculate the Expected Species
+## Introduction
 
-#TES() calculate Total Expected Species base on ESa, ESb and their average value
+This is the R script for functions of ES(), TES() and plot.TES(). This repo serves as the supplement for the manuscript *Estimating the total species richness: fitting rarefaction by asymptotic approximation* (Zou, Zhao, & Axmacher, 2021) submitted to *Ecology*.
 
-#plot.TES() provides the fitted curve for TES
+## Functions 
+
+**Functions.R** provides the following functions:
+
+- `ES()` calculate the Expected Species
+- `TES()` calculate Total Expected Species base on ESa, ESb and their average value
+- `plot.TES()` provides the fitted curve for TES
+
+## LICENCE
+
+This script is licensed under MIT.
