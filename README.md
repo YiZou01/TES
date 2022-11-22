@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the R script for functions of ES(), TES() and plot.TES(). This repo serves as the supplement for the manuscript *Estimating total species richness: fitting rarefaction by asymptotic approximation* (Zou, Zhao, & Axmacher, 2022) submitted to an academic journal.
+This is the R script for functions of ES(), TES() and plot.TES(). This repo serves as the supplement for Zou, Y. & Axmacher, J.C. Estimating total species richness: fitting rarefaction by asymptotic approximation. Accepted for publication in Ecosphere.
 
 ## Functions 
 
@@ -14,4 +14,4 @@ This is the R script for functions of ES(), TES() and plot.TES(). This repo serv
 
 ## LICENCE
 
-This script is licensed under MIT.
+This script is licensed under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
